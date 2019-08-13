@@ -1,0 +1,39 @@
+.navbar-nav
+{
+padding:0 0 0 2%;
+}
+.navbar-right
+{
+    border: 1px solid powderblue;
+    padding:5px;
+    background: powderblue;
+}
+.image
+{
+    height: auto;
+    max-width: 100%;
+}
+p.lead
+{
+    text-align: justify;
+}
+
+.float-right
+{
+    width: 100%;
+}
+.glyphicon-log-in
+{
+    width: 25px;
+    text-align: justify;
+}
+iframe
+{
+    padding: 10px 15px 20px 15px;
+}
+.col-sm
+{
+    padding: 10px;
+}
+
+
